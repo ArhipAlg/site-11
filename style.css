@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: lime;
+    padding: 10px;
+}
+    header a{
+        text-decoration:none ;
+        border:1px solid green;
+        padding: 10px;
+        border-radius: 10px;
+        background-color: rgba(13, 171, 68, 0.393);
+}
+h1{text-align: center;
+color: blue;
+}
+
+footer{
+    background-color: lime;
+    padding: 10px;
